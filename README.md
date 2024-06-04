@@ -33,7 +33,7 @@ The variables that should be removed are 'EIN'.
 #### How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 The neural network model included: 67 neurons, 3 hidden layers, and 3 activation functions (relu, tanh, sigmoid). (See Attached photo for details) Initially, I started with low neurons and ran the model. When the model returned with a low accuracy I added more neurons. As I increased the amount of neurons the accuracy increased. I also used different functions for each layer, because it also increased the accuracy of the model.
-([![image](https://github.com/jonyang6483/deep-learning-challenge/assets/120415161/d4772319-50b9-4471-8c8d-6deddcdb794c)
+![image](https://github.com/jonyang6483/deep-learning-challenge/assets/120415161/d4772319-50b9-4471-8c8d-6deddcdb794c)
 
 
 #### Were you able to achieve the target model’s performance?
